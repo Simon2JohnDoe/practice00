@@ -9,5 +9,15 @@ background-color: red;
 
 p{
     color: royalblue;
+    font-family: 'Times New Roman', Times, serif;
+}
 
+h1 {
+    background-color: teal;
+    font-size: 35px;
+}
+
+.weaknesses {
+
+    background-color: violet;
 }
